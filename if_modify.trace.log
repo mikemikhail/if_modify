@@ -1,0 +1,9 @@
+2020-01-23 11:03:44.034601 start
+2020-01-23 11:03:45.401607 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:03:45.567758 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:08:46.749143 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:08:46.782040 None <interface-name>Loopback55</interface-name>
