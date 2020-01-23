@@ -7,3 +7,60 @@
        <system-id>0101.0010.1001</system-id>
        <system-id>0101.0010.2001</system-id>
 2020-01-23 11:08:46.782040 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:13:48.033947 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:13:48.148230 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:18:49.384862 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:18:49.499664 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:23:50.688161 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:23:50.720271 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:28:51.975978 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:28:52.091458 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:33:53.393757 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:33:53.509258 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:38:54.760041 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:38:54.875117 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:43:56.066911 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:43:56.182057 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:48:58.015837 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:48:58.080836 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:53:59.286239 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:53:59.401554 None <interface-name>Loopback55</interface-name>
+2020-01-23 11:59:00.665266 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 11:59:00.780858 None <interface-name>Loopback55</interface-name>
+2020-01-23 12:04:02.657269 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 12:04:02.773160 None <interface-name>Loopback55</interface-name>
+2020-01-23 12:09:04.068270 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 12:09:04.183865 None <interface-name>Loopback55</interface-name>
+2020-01-23 12:14:05.441515 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 12:14:05.557261 None <interface-name>Loopback55</interface-name>
+2020-01-23 12:19:06.859694 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 12:19:06.975141 None <interface-name>Loopback55</interface-name>
+2020-01-23 12:24:08.264404 <system-id> <neighbor-state>isis-adj-up-state</neighbor-state>
+       <system-id>0101.0010.1001</system-id>
+       <system-id>0101.0010.2001</system-id>
+2020-01-23 12:24:08.429180 None <interface-name>Loopback55</interface-name>
